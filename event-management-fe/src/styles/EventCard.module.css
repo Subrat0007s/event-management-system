@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 15px auto;
+  max-width: 500px;
+  background: #fff;
+}
+
+.booking {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.booking input {
+  width: 70px;
+}
