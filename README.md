@@ -31,8 +31,6 @@ This project is suitable for:
 
 ## 🏗️ Full Project Structure
 
-### 📁 Detailed Folder Structure
-
 ```
 event-management-system/
 │
